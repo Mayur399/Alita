@@ -1,4 +1,0 @@
-Scenario: File Path Check
-Given the URL is launched
-When user enters username, password and click on Submit button
-Then user should be able to login successfully
